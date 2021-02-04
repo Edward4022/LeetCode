@@ -15,13 +15,13 @@
     <summary>code</summary>  
 
 - C#    
-    - [test](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/3k4733294.c)   
-    描述:    
-    128 ms (**76.77%**), 7.5 MB (**82.55%**)
+    - [First](https://github.com/EdwardClown/LeetCode/blob/master/1.%20Two%20Sum/C%23/First.cs)   
+    描述:暴力解    
+    272 ms (**23.24%**), 31.7 MB (**54.16%**)
 
 - PHP    
-    - [test](https://github.com/housemeow/Leetcode/blob/master/1_Two%20Sum/3k4733294.c)    
-    描述:    
-    128 ms (**76.77%**), 7.5 MB (**82.55%**)
+    - [test](https://github.com/EdwardClown/LeetCode/blob/master/1.%20Two%20Sum/PHP/First.php)    
+    描述:暴力解    
+    20 ms (**18.74%**), 15.9 MB (**34.89%**)
 
     </details>
